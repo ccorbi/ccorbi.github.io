@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+### Summary 
 
 Computational biologist with 10 years of research experience within multidisciplinary teams. Proficient in researching, design and implementing full stack data analysis workflow. Significant experience as liaison, project management and implementing functional requirements.
 
