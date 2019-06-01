@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ph.D. Carles Corbi-Verge"
 title_separator          : "-"
-name                     : &name "Dr. Carles Corbi-Verge"
+name                     : &name "Ph.D. Carles Corbi-Verge"
 description              : &description "Scientist at University of Toronto"
 url                      : https://ccorbi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "ccorbiverge"
 facebook:
   username               :
   app_id                 :
