@@ -22,23 +22,32 @@ Experience
 ======
 * Postdoctoral fellow @ University of Toronto. 
   ( Toronto, CANADA ) April 2014 – Present (5 years)
+  
     o	I created tools and methods for data processing and analysis of high-throughput experiments.
+    
     o	I designed pipelines for collection of biological data from heterogenic sources; databases, physicochemical calculations and    predictions of machine learning models.
+    
     o	Analytics of high-throughput experiments using a wide range of analytical techniques; supervised, clustering, network analysis and data visualization.  
       -	I work in the implementation of deep learning for precise classification of cancer patients using multi-OMICS data. 
       -	I work to build model for prediction of pathological impact of mutation.
       -	I work to predict binding of protein to DNA sequences.  
+      
     o	I mentored undergrad, and grad students.
-  o	I co-administer the IT infrastructure of the lab. 
+    
+    o	I co-administer the IT infrastructure of the lab. 
 
 * PhD student, Research Assistant @ University of Granada. Biophysics Department. 
   ( Granada, SPAIN ) September 2007 - December 2013 (5 years )
+  
     o	I conducted a novel analysis of the allosteric and cooperative effects on proteins using state-of-the-art large-scale full-atom computational simulations.
+    
     o	I designed a pipeline for preprocessing and analysis of water molecules in structures of peptide domain recognition domains. 
+    
     o	I performed protein expression and biophysical experiments. 
 
 *	Scientific Data Manager @ Almirall Pharma. Information department.
   ( Barcelona, SPAIN ) January 2005 - August 2007 (2 year)
+  
     o	I designed and implemented protocols for preprocessing and digital storage of the experimental data of the drug discovery pipeline. 
 
 
@@ -81,7 +90,8 @@ Skills
 ======
 
 * CORE SKILLS: 
-Python, Scikit-learn, Pandas, Numpy, Keras, Jupyter Notebooks, SQL, R, Linux, High-performance computing.
+  Python, Scikit-learn, Pandas, Numpy, Keras, Jupyter Notebooks, SQL, R, Linux, High-performance computing.
 
-* SOFT SKILLS: Curiosity, Research, Critical-Thinking, Visual-Modelling, Self-Managing, Relationship-building, Mentorship.
+* SOFT SKILLS: 
+  Curiosity, Research, Critical-Thinking, Visual-Modelling, Self-Managing, Relationship-building, Mentorship.
 
