@@ -10,7 +10,7 @@ redirect_from:
 
 
 ## Data-driven Research
-====================
+
 
 We are living in an era of paradigm reinvention peace with no precedent.  This acceleration creates new opportunities and new challenges. An urgent challenge brought by recent technological advances is tackling the unprecedented scale and high dimensionality of the data. This affects many fields, from science to marketing.  Consequently,   a multidisciplinary background and flexible are attitudes a must-have skill to respond to this rapid chain of changes and successfully extract valuable knowledge from the flood of data available.
 
