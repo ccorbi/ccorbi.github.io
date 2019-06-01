@@ -25,7 +25,7 @@ Experience
 
 
 * **Postdoctoral fellow @ University of Toronto.**
-  ( Toronto, CANADA ) April 2014 – Present (5 years)
+  *( Toronto, CANADA ) April 2014 – Present (5 years)*
   
     *	I created tools and methods for data processing and analysis of high-throughput experiments.
     *	I designed pipelines for collection of biological data from heterogenic sources; databases, physicochemical calculations and    predictions of machine learning models.    
@@ -38,8 +38,8 @@ Experience
     *	I co-administer the IT infrastructure of the lab. 
 
 
-* **PhD student, Research Assistant @ University of Granada. Biophysics Department. **
-  ( Granada, SPAIN ) September 2007 - December 2013 (5 years )
+* **PhD student, Research Assistant @ University of Granada. Biophysics Department.**
+  *( Granada, SPAIN ) September 2007 - December 2013 (5 years )*
   
     *	I conducted a novel analysis of the allosteric and cooperative effects on proteins using state-of-the-art large-scale full-atom computational simulations.
     *	I designed a pipeline for preprocessing and analysis of water molecules in structures of peptide domain recognition domains. 
@@ -47,7 +47,7 @@ Experience
 
 
 *	**Scientific Data Manager @ Almirall Pharma. Information department.**
-  ( Barcelona, SPAIN ) January 2005 - August 2007 (2 year)
+  *( Barcelona, SPAIN ) January 2005 - August 2007 (2 year)*
   
   *	I designed and implemented protocols for preprocessing and digital storage of the experimental data of the drug discovery pipeline. 
 
