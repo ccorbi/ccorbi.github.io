@@ -84,9 +84,10 @@ Languages
 Skills
 ======
 
-* CORE SKILLS: 
-  Python, Scikit-learn, Pandas, Numpy, Keras, Jupyter Notebooks, SQL, R, Linux, High-performance computing.
+* TECHNICAL SKILLS: 
+    Python; Scikit-learn, Pandas, Numpy, Keras, Jupyter Notebooks, SQL, Linux, High-performance computing
+    RNAseq, DNAseq
 
 * SOFT SKILLS: 
-  Curiosity, Research, Critical-Thinking, Visual-Modelling, Self-Managing, Relationship-building, Mentorship.
+    Curiosity, Research, Critical-Thinking, Visual-Modelling, Self-Managing, Relationship-building, Mentorship.
 
