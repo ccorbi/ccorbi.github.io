@@ -49,7 +49,7 @@ Experience
 *	**Scientific Data Manager @ Almirall Pharma. Information department.**
   *( Barcelona, SPAIN ) January 2005 - August 2007 (2 year)*
   
-  *	I designed and implemented protocols for preprocessing and digital storage of the experimental data of the drug discovery pipeline. 
+    *	I designed and implemented protocols for preprocessing and digital storage of the experimental data of the drug discovery pipeline. 
 
 
 
