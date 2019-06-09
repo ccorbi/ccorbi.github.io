@@ -31,8 +31,8 @@ Experience
     *	I designed pipelines for collection of biological data from heterogenic sources; databases, physicochemical calculations and    predictions of machine learning models.    
     *	Analytics of high-throughput experiments using a wide range of analytical techniques; supervised, clustering, network analysis and data visualization.
       *	I work in the implementation of deep learning for precise classification of cancer patients using multi-OMICS data. 
-      *	I work to build model for prediction of pathological impact of mutation.
-      *	I work to predict binding of protein to DNA sequences.  
+      *	I work to build model for prediction of pathological impact of a mutation.
+      *	I work to predict the binding motif of a protein to DNA sequences.   
       
     *	I mentored undergrad, and grad students.    
     *	I co-administer the IT infrastructure of the lab. 
@@ -47,7 +47,7 @@ Experience
 
 
 *	**Scientific Data Manager @ Almirall Pharma. Information department.**
-  *( Barcelona, SPAIN ) January 2005 - August 2007 (2 year)*
+  *( Barcelona, SPAIN ) January 2005 - August 2007 (2 years)*
   
     *	I designed and implemented protocols for preprocessing and digital storage of the experimental data of the drug discovery pipeline. 
 
