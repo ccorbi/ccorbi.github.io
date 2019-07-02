@@ -32,9 +32,11 @@ author_profile: true
 
 
 
-## . 
+## Bioinformatics. 
    **Skills:** _Data engineering and Science, Supervised and Unsupervised models._
- 
+
+• Strokach A, Corbi-Verge C, Teyra J, Kim PM. **Predicting changes in protein stability caused by mutation using sequence- and structure-based methods in a CAGI5 blind challenge.** Human Mutation. 2019.
+  [PMID](https://www.ncbi.nlm.nih.gov/pubmed/31243847) 
  
 • Strokach A, Corbi-Verge C, Teyra J, Kim PM. **Predicting the effect of mutations on protein folding and protein-protein interaction.** Methods Mol Biol. 2019.
   [PMID](https://www.ncbi.nlm.nih.gov/pubmed/30298389)
@@ -47,7 +49,7 @@ author_profile: true
 
 
 
-## Structural computational biology
+## Structural computational biology.
    **Skills:** _Structural Biology, Molecular Biology, Data analytics, Biophysics, Math and Statistics_
    
 
