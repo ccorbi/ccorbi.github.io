@@ -5,13 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-  You can also find my articles on <u><a href="https://scholar.google.ca/citations?user=faDYpP8AAAAJ&hl=en">my Google Scholar profile</a>.</u>
+For an overview of citations of my papers, please view my [Google Scholar profile](https://scholar.google.ca/citations?user=faDYpP8AAAAJ&hl=en).
 
 
 ## Peptide library design and screening analysis. 
   **Skills:** _Data integration and Visualization, Molecular Biology, Math and Statistics, Supervised models_
   
-
 • Ichikawa DM, Corbi-Verge C*, Shen MJ, Snider J, Wong V, Stagljar I, Kim PM, Noyes MB. **A Multireporter Bacterial 2-Hybrid Assay for the High-Throughput and Dynamic Assay of PDZ Domain-Peptide Interactions.** ACS Synth Biol. 2019. 
 [PMID](https://www.ncbi.nlm.nih.gov/pubmed/30969105), [CODE](https://gitlab.com/kimlab/ngskit)
 
@@ -52,7 +51,6 @@ author_profile: true
 ## Structural computational biology.
    **Skills:** _Structural Biology, Molecular Biology, Data analytics, Biophysics, Math and Statistics_
    
-
 • Garton M,  Corbi-Verge C*, Hu Y, Nim S, Sherborne B,  Kim PM. **Rapid and Accurate Structure‐Based Therapeutic Peptide Design using GPU Accelerated Thermodynamic Integration.** Proteins 2018.
   [PMID](https://www.ncbi.nlm.nih.gov/pubmed/30520126), [CODE](https://gitlab.com/kimlab/rapid) 
 
@@ -64,7 +62,6 @@ author_profile: true
 
 • Corbi-Verge C*, Marinelli F, Zafra-Ruano A, Ruiz-Sanz J, Luque I, Faraldo-Gómez JD. **Two-state dynamics of the SH3-SH2 tandem of Abl kinase and the allosteric role of the N-cap.** Proc Natl Acad Sci U S A. 2013.
   [PMID](https://www.ncbi.nlm.nih.gov/pubmed/23959873)
-
 
 • Bonet J, Caltabiano G, Khan AK, Johnston MA, Corbí C, Gómez A, Rovira X, Teyra J, Villà-Freixa J. **The role of residue stability in transient protein-protein interactions involved in enzymatic phosphate hydrolysis. A computational study.** Proteins. 2006. 
   [PMID](https://www.ncbi.nlm.nih.gov/pubmed/16374872)
