@@ -9,7 +9,7 @@ author_profile: true
 
 
 ## Peptide library design and screening analysis. 
-  **Skills:** _Data integration and Visualization, Molecular Biology, Math and Statistics_
+  **Skills:** _Data integration and Visualization, Molecular Biology, Math and Statistics, Supervised models_
   
 
 • Ichikawa DM, Corbi-Verge C*, Shen MJ, Snider J, Wong V, Stagljar I, Kim PM, Noyes MB. **A Multireporter Bacterial 2-Hybrid Assay for the High-Throughput and Dynamic Assay of PDZ Domain-Peptide Interactions.** ACS Synth Biol. 2019. 
@@ -32,7 +32,7 @@ author_profile: true
 
 
 
-## Machine learning. 
+## . 
    **Skills:** _Data engineering and Science, Supervised and Unsupervised models._
  
  
