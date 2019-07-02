@@ -51,7 +51,7 @@ author_profile: true
    **Skills:** _Structural Biology, Molecular Biology, Data analytics, Biophysics, Math and Statistics_
    
 
-• Garton M,  Corbi-Verge C*, Hu Y, Nim S, Sherborne B,  Kim PM. **GPU accelerated free energy calculations allow rapid and highly accurate design of inhibitory peptides.** Proteins 2018.
+• Garton M,  Corbi-Verge C*, Hu Y, Nim S, Sherborne B,  Kim PM. **Rapid and Accurate Structure‐Based Therapeutic Peptide Design using GPU Accelerated Thermodynamic Integration.** Proteins 2018.
   [PMID](https://www.ncbi.nlm.nih.gov/pubmed/30520126), [CODE](https://gitlab.com/kimlab/rapid) 
 
 • Ben-David M, Huang H, Sun MGF, Corbi-Verge C, Petsalaki E, Liu K, Gfeller D, Garg P, Tempel W, Sochirca I, Shifman JM, Davidson A, Min J, Kim PM, Sidhu SS. **Allosteric Modulation of Binding Specificity by Alternative Packing of Protein Cores.** J Mol biol 2018.
