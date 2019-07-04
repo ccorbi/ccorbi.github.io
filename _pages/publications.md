@@ -8,7 +8,7 @@ author_profile: true
 For an overview of citations of my papers, please view my [Google Scholar profile](https://scholar.google.ca/citations?user=faDYpP8AAAAJ&hl=en).
 
 
-## Peptide library design and screening analysis. 
+## Computational Biology. Peptide library design and screening analysis. 
   **Skills:** _Data integration and Visualization, Molecular Biology, Math and Statistics, Supervised models_
   
 • Ichikawa DM, Corbi-Verge C*, Shen MJ, Snider J, Wong V, Stagljar I, Kim PM, Noyes MB. **A Multireporter Bacterial 2-Hybrid Assay for the High-Throughput and Dynamic Assay of PDZ Domain-Peptide Interactions.** ACS Synth Biol. 2019. 
@@ -31,7 +31,7 @@ For an overview of citations of my papers, please view my [Google Scholar profil
 
 
 
-## Structural Computational Biology. Design and Predictive models
+## Structural Computational Biology. Design and predictive models.
    **Skills:** _Data engineering and Science, Supervised and Unsupervised models._
 
 • Strokach A, Corbi-Verge C, Teyra J, Kim PM. **Predicting changes in protein stability caused by mutation using sequence- and structure-based methods in a CAGI5 blind challenge.** Human Mutation. 2019.
@@ -51,7 +51,7 @@ For an overview of citations of my papers, please view my [Google Scholar profil
 
 
 
-## Structural Computational Biology. Protein Conformation Analysis
+## Structural Computational Biology. Protein conformation analysis.
    **Skills:** _Structural Biology, Molecular Biology, Data analytics, Biophysics, Math and Statistics_
    
 • Ben-David M, Huang H, Sun MGF, Corbi-Verge C, Petsalaki E, Liu K, Gfeller D, Garg P, Tempel W, Sochirca I, Shifman JM, Davidson A, Min J, Kim PM, Sidhu SS. **Allosteric Modulation of Binding Specificity by Alternative Packing of Protein Cores.** J Mol biol 2018.
