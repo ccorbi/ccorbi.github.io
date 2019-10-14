@@ -8,8 +8,8 @@ author_profile: true
 For an overview of citations of my papers, please view my [Google Scholar profile](https://scholar.google.ca/citations?user=faDYpP8AAAAJ&hl=en).
 
 
-## High-Troughput experiments design and analysis. 
-  **Skills:** _Data integration and Visualization, Molecular Biology, Math and Statistics, Supervised models, Computational Biology_
+## High-Troughput experiments analysis. 
+  **Skills:** _Data integration and Visualization, Molecular Biology, Systems biology, Math and Statistics, Supervised models, Computational Biology_
   
 • Ichikawa DM, Corbi-Verge C*, Shen MJ, Snider J, Wong V, Stagljar I, Kim PM, Noyes MB. **A Multireporter Bacterial 2-Hybrid Assay for the High-Throughput and Dynamic Assay of PDZ Domain-Peptide Interactions.** ACS Synth Biol. 2019. 
 [[PMID](https://www.ncbi.nlm.nih.gov/pubmed/30969105)], [[CODE](https://gitlab.com/kimlab/ngskit)]
