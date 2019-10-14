@@ -8,8 +8,8 @@ author_profile: true
 For an overview of citations of my papers, please view my [Google Scholar profile](https://scholar.google.ca/citations?user=faDYpP8AAAAJ&hl=en).
 
 
-## Computational Biology. Peptide library design and screening analysis. 
-  **Skills:** _Data integration and Visualization, Molecular Biology, Math and Statistics, Supervised models_
+## High-Troughput experiments design and analysis. 
+  **Skills:** _Data integration and Visualization, Molecular Biology, Math and Statistics, Supervised models, Computational Biology_
   
 • Ichikawa DM, Corbi-Verge C*, Shen MJ, Snider J, Wong V, Stagljar I, Kim PM, Noyes MB. **A Multireporter Bacterial 2-Hybrid Assay for the High-Throughput and Dynamic Assay of PDZ Domain-Peptide Interactions.** ACS Synth Biol. 2019. 
 [[PMID](https://www.ncbi.nlm.nih.gov/pubmed/30969105)], [[CODE](https://gitlab.com/kimlab/ngskit)]
@@ -31,11 +31,13 @@ For an overview of citations of my papers, please view my [Google Scholar profil
 
 
 
-## Structural Computational Biology. Design and predictive models.
-   **Skills:** _Data engineering and Science, Supervised and Unsupervised models._
+## Building and design of predictive models.
+   **Skills:** _Data engineering and Science, Supervised and Unsupervised models, Structural Computational Biology, Math and Statistics._
 
 • Strokach A, Corbi-Verge C, Teyra J, Kim PM. **Predicting changes in protein stability caused by mutation using sequence- and structure-based methods in a CAGI5 blind challenge.** Human Mutation. 2019.
   [[PMID](https://www.ncbi.nlm.nih.gov/pubmed/31243847)] 
+  
+• Castrense Savojardo, Maria Petrosino, Giulia Babbi, Samuele Bovo, Carles Corbi‐Verge, Rita Casadio, Piero Fariselli, Lukas Folkman, Aditi Garg, Mostafa Karimi, Panagiotis Katsonis, Philip M Kim, Olivier Lichtarge, Pier Luigi Martelli, Alessandra Pasquo, Debnath Pal, Yang Shen, Alexey V Strokach, Paola Turina, Yaoqi Zhou, Gaia Andreoletti, Steven E Brenner, Roberta Chiaraluce, Valerio Consalvi, Emidio Capriotti. **Evaluating the predictions of the protein stability change upon single amino acid substitutions for the FXN CAGI5 challenge.** Human Mutation. 2019. [[PMID](https://www.ncbi.nlm.nih.gov/pubmed/31209948)] 
  
 • Strokach A, Corbi-Verge C, Teyra J, Kim PM. **Predicting the effect of mutations on protein folding and protein-protein interaction.** Methods Mol Biol. 2019.
   [[PMID](https://www.ncbi.nlm.nih.gov/pubmed/30298389)]
@@ -51,8 +53,8 @@ For an overview of citations of my papers, please view my [Google Scholar profil
 
 
 
-## Structural Computational Biology. Protein conformation analysis.
-   **Skills:** _Structural Biology, Molecular Biology, Data analytics, Biophysics, Math and Statistics_
+## Protein structure and conformation analysis.
+   **Skills:** _Structural Biology, Molecular Biology, Data analytics, Biophysics, Structural Computational Biology, Math and Statistics._
    
 • Ben-David M, Huang H, Sun MGF, Corbi-Verge C, Petsalaki E, Liu K, Gfeller D, Garg P, Tempel W, Sochirca I, Shifman JM, Davidson A, Min J, Kim PM, Sidhu SS. **Allosteric Modulation of Binding Specificity by Alternative Packing of Protein Cores.** J Mol biol 2018.
   [[PMID](https://www.ncbi.nlm.nih.gov/pubmed/30471255)]
@@ -65,3 +67,15 @@ For an overview of citations of my papers, please view my [Google Scholar profil
 
 • Bonet J, Caltabiano G, Khan AK, Johnston MA, Corbí C, Gómez A, Rovira X, Teyra J, Villà-Freixa J. **The role of residue stability in transient protein-protein interactions involved in enzymatic phosphate hydrolysis. A computational study.** Proteins. 2006. 
   [[PMID](https://www.ncbi.nlm.nih.gov/pubmed/16374872)]
+  
+  
+## Conferences.
+
+Corbi-Verge C, Kim PM. **RNAseq pipeline for the identification and classification of aberrant isoforms on cancer**. Donelly Center for Cellular and Biomolecular Research Retreat 2017. Ontario, Canada [POSTER]
+
+Corbi-Verge C, Marinelli F, Zafra-Ruano A, Ruiz-Sanz J, Luque I, Faraldo-Gómez JD. **Conformational Distribution of the SH3-SH2 Tandem of the ABL kinase and its Modulation by Intramolecular interactions**.  XXXVII Congreso de la Sociedad Española de Bioquímica y Biología Molecular. 2014 Granada, Spain  [POSTER]
+
+Corbi-Verge C, Martin-Garcia JM, Martinez, JC, Sanz JR, Luque I. **Long Range Cooperative effects in SH3 Domains From The Src Family. VIII European Symposium of the Protein Society.**  2009 Zurich, Switzerland.[POSTER]
+
+Corbi-Verge C, Martin-Garcia JM, Martinez, JC, Sanz JR, Luque I. **Specificity on SH3 interactions: long-range effects on the binding energetics of proline-rich ligands to SH3 domains from the SRC family.** 2nd International Conference on molecular Perspectives on Protein-protein interactions. 2008. Dubrovnik, Croatia.
+
