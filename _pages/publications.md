@@ -71,11 +71,11 @@ For an overview of citations of my papers, please view my [Google Scholar profil
   
 ## Conferences.
 
-Corbi-Verge C, Kim PM. **RNAseq pipeline for the identification and classification of aberrant isoforms on cancer**. Donelly Center for Cellular and Biomolecular Research Retreat 2017. Ontario, Canada [POSTER]
+Corbi-Verge C, Kim PM. **RNAseq pipeline for the identification and classification of aberrant isoforms on cancer**. Donelly Center for Cellular and Biomolecular Research Retreat 2017. Ontario, Canada. [POSTER]
 
-Corbi-Verge C, Marinelli F, Zafra-Ruano A, Ruiz-Sanz J, Luque I, Faraldo-Gómez JD. **Conformational Distribution of the SH3-SH2 Tandem of the ABL kinase and its Modulation by Intramolecular interactions**.  XXXVII Congreso de la Sociedad Española de Bioquímica y Biología Molecular. 2014 Granada, Spain  [POSTER]
+Corbi-Verge C, Marinelli F, Zafra-Ruano A, Ruiz-Sanz J, Luque I, Faraldo-Gómez JD. **Conformational Distribution of the SH3-SH2 Tandem of the ABL kinase and its Modulation by Intramolecular interactions**.  XXXVII Congreso de la Sociedad Española de Bioquímica y Biología Molecular. 2014 Granada, Spain.  [POSTER]
 
-Corbi-Verge C, Martin-Garcia JM, Martinez, JC, Sanz JR, Luque I. **Long Range Cooperative effects in SH3 Domains From The Src Family. VIII European Symposium of the Protein Society.**  2009 Zurich, Switzerland.[POSTER]
+Corbi-Verge C, Martin-Garcia JM, Martinez, JC, Sanz JR, Luque I. **Long Range Cooperative effects in SH3 Domains From The Src Family. VIII European Symposium of the Protein Society.**  2009 Zurich, Switzerland. [POSTER]
 
-Corbi-Verge C, Martin-Garcia JM, Martinez, JC, Sanz JR, Luque I. **Specificity on SH3 interactions: long-range effects on the binding energetics of proline-rich ligands to SH3 domains from the SRC family.** 2nd International Conference on molecular Perspectives on Protein-protein interactions. 2008. Dubrovnik, Croatia.
+Corbi-Verge C, Martin-Garcia JM, Martinez, JC, Sanz JR, Luque I. **Specificity on SH3 interactions: long-range effects on the binding energetics of proline-rich ligands to SH3 domains from the SRC family.** 2nd International Conference on molecular Perspectives on Protein-protein interactions. 2008. Dubrovnik, Croatia. [POSTER]
 
