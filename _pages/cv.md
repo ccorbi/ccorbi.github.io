@@ -61,10 +61,12 @@ Volunteer and Internships
   *	Lab Assistant Intern @ Bioberica Pharma. Q&C Department. 2001
 
 
-Courses
+Courses & Certificates
 ====
 
-  *	Advanced Neural Networks. UofT, 2017
+  *	Structuring Machine Learning Projects. DeepLearning.AI, 2019
+  *	Design Thinking and Predictive Analytics for Data Products. UC. San Diego 2019
+  *	Advanced Neural Networks. Scinet, UofT. 2017
   *	Big Data and non-relational databases. U. Barcelona, 2013.
   * Object-Oriented Programming with JAVA. U. Barcelona, 2007.
   * Programming in R. U. Barcelona, 2004.
