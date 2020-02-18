@@ -55,7 +55,11 @@ For an overview of citations of my papers, please view my [Google Scholar profil
 
 ## Protein structure and conformation analysis.
    **Skills:** _Structural Biology, Molecular Biology, Data analytics, Biophysics, Structural Computational Biology, Math and Statistics._
-   
+
+
+• Iglesias-Bexiga M, Palencia  A, Corbi-Verge C, Martin-Malpartida P, Blanco FJ, Macias MJ, Cobos ES, Luque I. **Binding Site Plasticity in Viral PPxY Late Domain Recognition by the Third WW Domain of Human NEDD4**  Sci Rep. 2019. 
+  [[PMID](https://pubmed.ncbi.nlm.nih.gov/31636332)]
+
 • Ben-David M, Huang H, Sun MGF, Corbi-Verge C, Petsalaki E, Liu K, Gfeller D, Garg P, Tempel W, Sochirca I, Shifman JM, Davidson A, Min J, Kim PM, Sidhu SS. **Allosteric Modulation of Binding Specificity by Alternative Packing of Protein Cores.** J Mol biol 2018.
   [[PMID](https://www.ncbi.nlm.nih.gov/pubmed/30471255)]
   
