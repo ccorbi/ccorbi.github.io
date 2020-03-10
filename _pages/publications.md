@@ -9,7 +9,7 @@ For an overview of citations of my papers, please view my [Google Scholar profil
 
 
 ## High-Troughput experiments analysis. 
-  **Skills:** _Data integration and Visualization, Molecular Biology, Systems biology, Math and Statistics, Supervised models, Computational Biology_
+  **Keywords:** _Data integration, Data Visualization, Molecular Biology, Peptides, Protein-Protein Interactions, Systems Biology, Math and Statistics, Supervised models, Computational Biology_
   
 • Ichikawa DM, Corbi-Verge C*, Shen MJ, Snider J, Wong V, Stagljar I, Kim PM, Noyes MB. **A Multireporter Bacterial 2-Hybrid Assay for the High-Throughput and Dynamic Assay of PDZ Domain-Peptide Interactions.** ACS Synth Biol. 2019. 
 [[PMID](https://www.ncbi.nlm.nih.gov/pubmed/30969105)], [[CODE](https://gitlab.com/kimlab/ngskit)]
@@ -32,7 +32,7 @@ For an overview of citations of my papers, please view my [Google Scholar profil
 
 
 ## Building and design of predictive models.
-   **Skills:** _Data engineering and Science, Supervised and Unsupervised models, Structural Computational Biology, Math and Statistics._
+   **Keywords:** _Data engineering, Structural Biology, Proteins, Protein-Protein Interactions, Data Science, Supervised and Unsupervised models, Structural Computational Biology, Math and Statistics._
 
 • Strokach A, Corbi-Verge C, Teyra J, Kim PM. **Predicting changes in protein stability caused by mutation using sequence- and structure-based methods in a CAGI5 blind challenge.** Human Mutation. 2019.
   [[PMID](https://www.ncbi.nlm.nih.gov/pubmed/31243847)] 
@@ -54,7 +54,7 @@ For an overview of citations of my papers, please view my [Google Scholar profil
 
 
 ## Protein structure and conformation analysis.
-   **Skills:** _Structural Biology, Molecular Biology, Data analytics, Biophysics, Structural Computational Biology, Math and Statistics._
+   **Keywords:** _Structural Biology, Proteins, Protein-Protein Interactions, Molecular Biology, Data analytics, Biophysics, Structural Computational Biology, Math and Statistics._
 
 
 • Iglesias-Bexiga M, Palencia  A, Corbi-Verge C, Martin-Malpartida P, Blanco FJ, Macias MJ, Cobos ES, Luque I. **Binding Site Plasticity in Viral PPxY Late Domain Recognition by the Third WW Domain of Human NEDD4**  Sci Rep. 2019. 
@@ -74,6 +74,12 @@ For an overview of citations of my papers, please view my [Google Scholar profil
   
   
 ## Conferences.
+
+Alexey Strokach, David Becerra, Carles Corbi-Verge, Albert Perez-Riba and Philip M. Kim. **Designing novel proteins with high accuracy using deep graph neural networks.**  14th Machine Learning in Computational Biology (MLCB) meeting 2019. Vancouver, Canada. [POSTER]
+
+Carles Corbi-Verge, April Muller, Marcus Noyes and Philip Kim. **C2H2 Zinc Finger DNA Binding Motif Prediction combining High-throughput experiments and Deep Learning.** 14th Machine Learning in Computational Biology (MLCB) meeting 2019. Vancouver, Canada. [POSTER]
+
+Hyunmin Lee, Zhen Hao Wu, Carles Corbi-Verge, Mac Mok, Sidney Kang, Shun Liao, Zhaolei Zhang and Michael Garton. De Novo Crystallization Condition Prediction with Deep Learning. 14th Machine Learning in Computational Biology (MLCB) meeting 2019. Vancouver, Canada. [POSTER]
 
 Corbi-Verge C, Kim PM. **RNAseq pipeline for the identification and classification of aberrant isoforms on cancer**. Donelly Center for Cellular and Biomolecular Research Retreat 2017. Ontario, Canada. [POSTER]
 
