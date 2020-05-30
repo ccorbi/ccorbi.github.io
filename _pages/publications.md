@@ -32,6 +32,7 @@ _________________
 
 ## Building and design of predictive models.
    **Keywords:** _Data engineering, Structural Biology, Proteins, Protein-Protein Interactions, Data Science, Supervised and Unsupervised models, Structural Computational Biology, Math and Statistics._
+_________________
 
 • **Predicting changes in protein stability caused by mutation using sequence- and structure-based methods in a CAGI5 blind challenge.** Human Mutation. 2019. Strokach A, Corbi-Verge C, Teyra J, Kim PM.
   [[PMID](https://www.ncbi.nlm.nih.gov/pubmed/31243847)] 
@@ -50,7 +51,7 @@ _________________
 
 ## Protein structure and conformation analysis.
    **Keywords:** _Structural Biology, Proteins, Protein-Protein Interactions, Molecular Biology, Data analytics, Biophysics, Structural Computational Biology, Math and Statistics._
-
+_________________
 
 • **Binding Site Plasticity in Viral PPxY Late Domain Recognition by the Third WW Domain of Human NEDD4**  Sci Rep. 2019.  Iglesias-Bexiga M, Palencia  A, Corbi-Verge C, Martin-Malpartida P, Blanco FJ, Macias MJ, Cobos ES, Luque I. [[PMID](https://pubmed.ncbi.nlm.nih.gov/31636332)]
 
