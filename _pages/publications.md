@@ -10,7 +10,10 @@ For an overview of citations of my papers, please view my [Google Scholar profil
 
 ## High-Troughput experiments analysis. 
   **Keywords:** _Data integration, Data Visualization, Molecular Biology, Peptides, Protein-Protein Interactions, Systems Biology, Math and Statistics, Supervised models, Computational Biology_
-  
+
+
+• Mueller AL, Corbi-Verge C*, Giganti DO, Ichikawa DM, Spencer JM, MacRae M, Garton M, Kim PM, Noyes MB. **The geometric influence on the Cys2His2 zinc finger domain and functional plasticity.** Nucleic Acids Res. 2020 [[PMID](https://www.ncbi.nlm.nih.gov/pubmed/32383734)], [[CODE](https://gitlab.com/kimlab/zfgeomodes)]
+
 • Ichikawa DM, Corbi-Verge C*, Shen MJ, Snider J, Wong V, Stagljar I, Kim PM, Noyes MB. **A Multireporter Bacterial 2-Hybrid Assay for the High-Throughput and Dynamic Assay of PDZ Domain-Peptide Interactions.** ACS Synth Biol. 2019. 
 [[PMID](https://www.ncbi.nlm.nih.gov/pubmed/30969105)], [[CODE](https://gitlab.com/kimlab/ngskit)]
 
