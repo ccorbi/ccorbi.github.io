@@ -11,7 +11,7 @@ redirect_from:
 
 ### Summary 
 
-Computational biologist with 10 years of research experience within multidisciplinary teams. Proficient in researching, design and implementing full stack data analysis workflow. Significant experience as liaison, project management and implementing functional requirements.
+I'm a passionate computational biologist with over 15 years of experience driving innovation in drug discovery. I leverage cutting-edge compute and machine learning (ML) to design and develop novel therapeutic stratergies. Proficient in researching, design and implementing full stack data analysis workflow. Significant experience as liaison, project management and implementing functional requirements.
 
 
 Education
@@ -87,7 +87,7 @@ Skills
 ======
 
 * TECHNICAL SKILLS: 
-    Python; Scikit-learn, Pandas, Numpy, Keras, Jupyter Notebooks, SQL, Linux, High-performance computing
+    Advance Python; Scikit-learn, Pandas, Numpy, Keras, Jupyter Notebooks, SQL, Linux, High-performance computing
     RNAseq, DNAseq
 
 * SOFT SKILLS: 
