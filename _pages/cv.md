@@ -11,7 +11,7 @@ redirect_from:
 
 ### Summary 
 
-I'm a passionate computational biologist with over 15 years of experience driving innovation in drug discovery. I leverage cutting-edge compute and machine learning (ML) to design and develop novel therapeutic stratergies. Proficient in researching, design and implementing full stack data analysis workflow. Significant experience as liaison, project management and implementing functional requirements.
+With over 15 years of experience in computational biology, drug discovery, and data science, I specialize in utilizing advanced computational methodologies to drive innovation in biological research. My expertise spans high-performance computing, molecular simulations, and biophysics, enabling me to decode complex biological systems and accelerate drug discovery efforts. Additionally, I excel in deploying big data applications and leveraging machine learning techniques to extract valuable insights from large datasets.
 
 
 Education
