@@ -17,4 +17,3 @@ During my Ph.D., I studied the conformational equilibrium of proteins using mole
 Working for Almirall laboratories as a Scientific Data Manager, I collaborated with different teams and departments across multiple disciplines to successfully design, develop and implement the protocols for preprocessing and digital storage of the experimental data of the drug discovery pipeline. 
 
 
-
