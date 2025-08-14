@@ -8,13 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-## Research
+Currently at Recursion Pharmaceuticals, I build machine learning pipelines to industrialize and accelerate drug discovery. 
 
-A biologic is a product that is produced from living organisms or contains components of living organisms with therapeutic activity. Commonly are part or complete proteins.  Biologics are safer, with a broader range of targets, higher specificity,  and allow more complex strategies than conventional small molecules.  Currently, I am a senior Postdoc at [Prof. Philip M Kim's Lab](http://www.kimlab.org) conducting research focused on the integration of data from multiple high-throughput experiments to design biologics with therapeutic activity. I apply techniques ranging from modern machine learning and computational structural biology to preprocess and analyze data from yeast-two hybrid, bacteria-two hybrid and pooled lentiviral screens. 
+## Academic Research
 
-During my Ph.D., I studied the conformational equilibrium of proteins using molecular dynamics and free energy calculations. Besides, I performed part of the experiments to validate my computational predictions.  Moreover, I have experience in biophysical techniques for the characterization of protein-protein interactions such as calorimetry and spectroscopy.
+My research is dedicated to engineering the next generation of medicines by operating at the intersection of machine learning, computational biology, and high-throughput experimentation. My goal is to translate complex biological data into tangible therapeutic innovations.
 
-Working for Almirall laboratories as a Scientific Data Manager, I collaborated with different teams and departments across multiple disciplines to successfully design, develop and implement the protocols for preprocessing and digital storage of the experimental data of the drug discovery pipeline. 
+Of course. Here is the corrected and slightly revised version of your text, with changes aimed at improving grammar and coherence while preserving your original meaning.
+
+As a senior Postdoctoral Fellow in the Kim Lab, my work focused on designing novel protein therapeutics, commonly known as biologics. These molecules offer significant advantages over traditional drugs, including higher specificity, a broader range of targets, and enhanced safety.
+
+My core strategy involved fusing computational structural biology with systems-level data. To achieve this, I applied and developed innovative high-throughput screening methods—such as the multireporter bacterial-two-hybrid (M2H) system, Phage-display and pooled lentiviral screens—to map vast networks of protein-protein interactions. I then leveraged this wealth of data to build sophisticated predictive models with machine learning to design therapeutic candidates. These designed candidates were further polished and improved by applying free energy calculations, to accurate predictions of mutation effects on peptide stability and affinity.
+
+This predictive work is built upon a deep foundational understanding of biophysics from my PhD. During my doctoral studies, I applied molecular dynamics simulations and free-energy calculations to investigate the intricate details of protein structure and conformational equilibrium. A key project involved elucidating the complex dynamics of the Abl kinase, revealing how its function is modulated by allosteric interactions and providing me with hands-on experience in experimental validation techniques like calorimetry and spectroscopy.
+
+Bridging the gap between fundamental research and industrial application, my experience includes working as a Scientific Data Manager at Almirall laboratories. There, I collaborated across departments to design and implement robust protocols for the preprocessing and digital storage of experimental data, giving me a crucial perspective on the entire drug discovery pipeline.
+
+Overall, my career tells a story of increasing scale and impact—from modeling the physics of a single protein to engineering entire biological systems. This unique combination of experience in biophysics, large-scale data analysis, and machine learning allows me to build the end-to-end strategies necessary to transform basic scientific discoveries into life-saving medicines.
 
 
 
