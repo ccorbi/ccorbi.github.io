@@ -13,12 +13,10 @@ For an overview of citations of my papers, please view my [Google Scholar profil
 
 ## High-Throughput Screening & Systems Biology 🔬
 This section showcases your ability to generate and analyze large-scale biological data, a crucial skill in modern biology. It bridges the gap between single-molecule studies and large-scale modeling.
-
-  **Keywords:** _Data integration, Data Visualization, Molecular Biology, Peptides, Protein-Protein Interactions, Systems Biology, Math and Statistics, Supervised models, Computational Biology_
   
 _________________
 
-• **Disrupting the α-synuclein-ESCRT interaction with a peptide inhibitor mitigates neurodegeneration in preclinical models of Parkinson’s disease.** Nature Communications. 2023. _Nim S, O’Hara DM, Corbi-Verge C, Perez-Riba A, .... Suneil K Kalia, Lorraine V Kalia, Kim PM._ [[PMID](https://www.ncbi.nlm.nih.gov/pubmed/37076542)] 
+• **Disrupting the α-synuclein-ESCRT interaction with a peptide inhibitor mitigates neurodegeneration in preclinical models of Parkinson’s disease.** Nature Communications. 2023. _Nim S, O’Hara DM, Corbi-Verge C, Perez-Riba A, ..., Suneil K Kalia, Lorraine V Kalia, Kim PM._ [[PMID](https://www.ncbi.nlm.nih.gov/pubmed/37076542)] 
 
 
 • **The geometric influence on the Cys2His2 zinc finger domain and functional plasticity.** Nucleic Acids Res. 2020. _Mueller AL, Corbi-Verge C*, Giganti DO, Ichikawa DM, Spencer JM, MacRae M, Garton M, Kim PM, Noyes MB._  [[PMID](https://www.ncbi.nlm.nih.gov/pubmed/32383734)], [[CODE](https://gitlab.com/kimlab/zfgeomodes)]
@@ -41,7 +39,6 @@ _________________
 
 ## Predictive Modeling & Machine Learning 🤖
 This is the culminating section, demonstrating your expertise in using advanced computational techniques to design, predict, and engineer biological systems. This is a highly sought-after skill set.
-   **Keywords:** _Machine Learning, Chemoinformatics, Deep Learning, Predictive Modeling, Computational Biology, Data Science, Math and Statistics._
    
 _________________
 
@@ -59,7 +56,6 @@ _________________
  
 • **Predicting the effect of mutations on protein folding and protein-protein interaction.** Methods Mol Biol. 2019. _Strokach A, Corbi-Verge C, Teyra J, Kim PM._ [[PMID](https://www.ncbi.nlm.nih.gov/pubmed/30298389)]
   
-•  **Rapid and Accurate Structure‐Based Therapeutic Peptide Design using GPU Accelerated Thermodynamic Integration.** Proteins 2018. _Garton M,  Corbi-Verge C*, Hu Y, Nim S, Sherborne B,  Kim PM._ [[PMID](https://www.ncbi.nlm.nih.gov/pubmed/30520126)], [[CODE](https://gitlab.com/kimlab/rapid)] 
   
 • **Semi-supervised Learning Predicts Approximately One-Third of the Alternative Splicing Isoforms as Functional Proteins.** Cell Rep. 2015. _Hao Y, Colak R, Teyra J, Corbi-Verge C, Ignatchenko A, Hahne H, Wilhelm M, Kuster B, Braun P, Kaida D, Kislinger T, Kim PM._ [[PMID](https://www.ncbi.nlm.nih.gov/pubmed/26146086)], [[CODE](https://gitlab.com/kimlab/pulse)] 
 
@@ -78,7 +74,7 @@ _________________
 
 ## Foundations in Protein Biophysics & Structural Analysis 🧬
 This section establishes your core expertise in the fundamental principles governing protein structure, stability, and interactions.
-   **Keywords:** _Structural Biology, Proteins, Protein-Protein Interactions, Molecular Biology, Data analytics, Biophysics, Structural Computational Biology, Math and Statistics._
+
    
 _________________
 
@@ -87,6 +83,8 @@ _________________
 • **Phage display identification of nanomolar ligands for human NEDD4-WW3: Energetic and dynamic implications for the development of broad-spectrum antivirals** International Journal of biological macromolecules. 2022. _Francisco Castillo, Carles Corbi-Verge, Javier Murciano-Calles, Adela M Candel, Ziying Han, Manuel Iglesias-Bexiga, Javier Ruiz-Sanz, Philip M Kim, Ronald N Harty, Jose C Martinez, Irene Luque_ [[PMID](https://www.ncbi.nlm.nih.gov/pubmed/35257734)] 
 
 • **Binding Site Plasticity in Viral PPxY Late Domain Recognition by the Third WW Domain of Human NEDD4**  Sci Rep. 2019.  _Iglesias-Bexiga M, Palencia  A, Corbi-Verge C, Martin-Malpartida P, Blanco FJ, Macias MJ, Cobos ES, Luque I._ [[PMID](https://pubmed.ncbi.nlm.nih.gov/31636332)]
+
+•  **Rapid and Accurate Structure‐Based Therapeutic Peptide Design using GPU Accelerated Thermodynamic Integration.** Proteins 2018. _Garton M,  Corbi-Verge C*, Hu Y, Nim S, Sherborne B,  Kim PM._ [[PMID](https://www.ncbi.nlm.nih.gov/pubmed/30520126)], [[CODE](https://gitlab.com/kimlab/rapid)] 
 
 • **Allosteric Modulation of Binding Specificity by Alternative Packing of Protein Cores.** J Mol biol 2018. _Ben-David M, Huang H, Sun MGF, Corbi-Verge C, Petsalaki E, Liu K, Gfeller D, Garg P, Tempel W, Sochirca I, Shifman JM, Davidson A, Min J, Kim PM, Sidhu SS._ [[PMID](https://www.ncbi.nlm.nih.gov/pubmed/30471255)]
   
