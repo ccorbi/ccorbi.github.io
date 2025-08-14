@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Carles Corbi-Verge, Ph.D. "
-title_separator          : "-"
+title                    : "Ph.D."
+title_separator          : ","
 name                     : &name "Carles Corbi-Verge"
-description              : &description "Postdoctoral fellow at University of Toronto"
+description              : &description "Reengineering drug discovery with Machine Learning"
 url                      : https://ccorbi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ccorbi.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Carles Corbi-Verge"
   avatar           : "profile2019.png"
-  bio              : "Scientist, Computational Biologist, Data Analyst, Machine Learning Engineer, and geek"
+  bio              : "After my PhD in Biophysics and a Postdoc in machine learning for biologics design, I've built ML pipelines at companies like Cyclica and Recursion."
   location         : "Toronto, Canada"
-  employer         : "Cyclica INC"
+  employer         : "Recursion Pharmaceuticals"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=corbi-verge"
   googlescholar    : "https://scholar.google.co.uk/citations?user=faDYpP8AAAAJ&hl"
   email            : "carles.corbiverge@utoronto.ca"
