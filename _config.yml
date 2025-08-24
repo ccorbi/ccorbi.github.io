@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ph.D."
+title                    : "About Carles Corbi-Verge"
 title_separator          : ","
 name                     : &name "Carles Corbi-Verge"
 description              : &description "Reengineering drug discovery with Machine Learning"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Carles Corbi-Verge"
   avatar           : "profile2019.png"
-  bio              : "After my PhD in Biophysics and a Postdoc in machine learning for biologics design, I've built ML pipelines at companies like Cyclica and Recursion."
+  bio              : "PhD in Biophysics, Postdoc in ML for biologics design, Currenlty building and appling ML for Recursion Pharmaceuticals."
   location         : "Toronto, Canada"
   employer         : "Recursion Pharmaceuticals"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=corbi-verge"

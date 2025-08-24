@@ -14,8 +14,6 @@ Currently at Recursion Pharmaceuticals, I build machine learning pipelines to in
 
 My research is dedicated to engineering the next generation of medicines by operating at the intersection of machine learning, computational biology, and high-throughput experimentation. My goal is to translate complex biological data into tangible therapeutic innovations.
 
-Of course. Here is the corrected and slightly revised version of your text, with changes aimed at improving grammar and coherence while preserving your original meaning.
-
 As a senior Postdoctoral Fellow in the Kim Lab, my work focused on designing novel protein therapeutics, commonly known as biologics. These molecules offer significant advantages over traditional drugs, including higher specificity, a broader range of targets, and enhanced safety.
 
 My core strategy involved fusing computational structural biology with systems-level data. To achieve this, I applied and developed innovative high-throughput screening methods—such as the multireporter bacterial-two-hybrid (M2H) system, Phage-display and pooled lentiviral screens—to map vast networks of protein-protein interactions. I then leveraged this wealth of data to build sophisticated predictive models with machine learning to design therapeutic candidates. These designed candidates were further polished and improved by applying free energy calculations, to accurate predictions of mutation effects on peptide stability and affinity.
