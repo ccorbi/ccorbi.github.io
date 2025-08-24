@@ -23,9 +23,14 @@ Education
 Experience
 ======
 
+* *Data Scientist @ Recursion Pharmaceuticals*
+  *( Toronto, CANADA ) April 2023 – Present*
+
+* *Computational Scientist @ Cyclica*
+  *( Toronto, CANADA ) April 2020 – April 2023 (3 years)*
 
 * **Postdoctoral fellow @ University of Toronto.**
-  *( Toronto, CANADA ) April 2014 – Present (5 years)*
+  *( Toronto, CANADA ) April 2014 – April 2020 (6 years)*
   
     *	I created tools and methods for data processing and analysis of high-throughput experiments.
     *	I designed pipelines for collection of biological data from heterogenic sources; databases, physicochemical calculations and    predictions of machine learning models.    
