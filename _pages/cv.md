@@ -25,13 +25,15 @@ Experience
 * **Senior ML Engineer II @  Recursion Pharmaceuticals**
   *( Toronto, CANADA ) August 2025 – Present*
 
-  * Automated ML lifecycle for Chemistry predictions platform. 
+  * Advanced Data Processing & Orchestration: Drove the data ingestion and standardization process for a large-scale ML platform. Architected an automated system to version and manage different data processing protocols for various assays, directly impacting model accuracy and reliability.
+ 
   * Applieng agentic solutions to streamline workflows and automate complex decision-making and information retrival processes, significantly reducing toil in drug discovery
 
 * **Senior Data Scientist @ Recursion Pharmaceuticals**
   *( Toronto, CANADA ) April 2023 – July 2025*
 
   * Automated Hit-to-lead pipeline. Built a comprehensive, automated platform to guide compound selection through multiple decision stages. This platform used a combination of machine learning, property calculations, and proprietary tools to make data-driven decisions and maximize the success rate of compounds.
+
   * Predictive Modeling: Developed robust predictive models for cytotoxicity and potency, providing crucial insights for compound selection and optimization within the drug discovery process. 
 
 * **Computational Scientist @ Cyclica**
@@ -60,6 +62,7 @@ Experience
   *( Granada, SPAIN ) September 2007 - December 2013 (5 years )*
   
     *	I conducted a novel analysis of the allosteric and cooperative effects on proteins using state-of-the-art large-scale full-atom computational simulations.
+    
     *	Developed an automated pipeline for preprocessing and analyzing water molecules within peptide recognition domains. 
     *	I performed protein expression and biophysical experiments. 
 
