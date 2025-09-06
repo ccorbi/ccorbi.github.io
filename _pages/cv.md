@@ -22,12 +22,25 @@ Education
 
 Experience
 ======
+* **Senior ML Engineer II @  Recursion Pharmaceuticals**
+  *( Toronto, CANADA ) August 2025 – Present*
 
-* *Data Scientist @ Recursion Pharmaceuticals*
-  *( Toronto, CANADA ) April 2023 – Present*
+  * Automated ML lifecycle for Chemistry predictions platform. 
+  * Applieng agentic solutions to streamline workflows and automate complex decision-making and information retrival processes, significantly reducing toil in drug discovery
 
-* *Computational Scientist @ Cyclica*
+* **Senior Data Scientist @ Recursion Pharmaceuticals**
+  *( Toronto, CANADA ) April 2023 – July 2025*
+
+  * Automated Hit-to-lead pipeline. Built a comprehensive, automated platform to guide compound selection through multiple decision stages. This platform used a combination of machine learning, property calculations, and proprietary tools to make data-driven decisions and maximize the success rate of compounds.
+  * Predictive Modeling: Developed robust predictive models for cytotoxicity and potency, providing crucial insights for compound selection and optimization within the drug discovery process. 
+
+* **Computational Scientist @ Cyclica**
   *( Toronto, CANADA ) April 2020 – April 2023 (3 years)*
+
+  * High-Throughput Screening: Developed an advanced pipeline for hit identification, leveraging multiple machine learning models to predict drug-target interactions and drug-like properties. This pipeline utilized Google Cloud Compute to screen up to 36 billion compounds at scale, identifying novel hits efficiently 
+
+  * Compound Generation Engine: Created a robust engine for generating novel compounds using Enamine's synthetic chemistry building blocks. This served as the foundation for a genetic algorithm that explored combinatorial chemical space, enabling the discovery of new drug candidates.
+
 
 * **Postdoctoral fellow @ University of Toronto.**
   *( Toronto, CANADA ) April 2014 – April 2020 (6 years)*
@@ -47,7 +60,7 @@ Experience
   *( Granada, SPAIN ) September 2007 - December 2013 (5 years )*
   
     *	I conducted a novel analysis of the allosteric and cooperative effects on proteins using state-of-the-art large-scale full-atom computational simulations.
-    *	I designed a pipeline for preprocessing and analysis of water molecules in structures of peptide domain recognition domains. 
+    *	Developed an automated pipeline for preprocessing and analyzing water molecules within peptide recognition domains. 
     *	I performed protein expression and biophysical experiments. 
 
 
