@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Carles Corbi-Verge"
+title                    : "Carles Corbi-Verge, PhD"
 title_separator          : ","
 name                     : &name "Carles Corbi-Verge"
 description              : &description "Reengineering drug discovery with Machine Learning"
