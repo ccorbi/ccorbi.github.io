@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Carles Corbi-Verge"
+title                    : "Carles Corbi-Verge, PhD"
 title_separator          : ","
 name                     : &name "Carles Corbi-Verge"
 description              : &description "Reengineering drug discovery with Machine Learning"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "ccorbiverge"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=corbi-verge"
   googlescholar    : "https://scholar.google.co.uk/citations?user=faDYpP8AAAAJ&hl"
   email            : "carles.corbiverge@utoronto.ca"
-  researchgate     : "https://www.researchgate.net/profile/Carles_Corbi-Verge"
+  researchgate     : # "https://www.researchgate.net/profile/Carles_Corbi-Verge"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/ccorbiverge/"
-  orcid            : "https://orcid.org/0000-0002-7654-4405"
+  orcid            : # "https://orcid.org/0000-0002-7654-4405"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
