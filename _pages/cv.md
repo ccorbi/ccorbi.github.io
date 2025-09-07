@@ -9,15 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-# Curriculum Vitae
-
----
 
 ## Summary
 
 With over 15 years of experience in computational biology, drug discovery, and data science, I specialize in utilizing advanced computational methodologies to drive innovation in biological research. My expertise spans **high-performance computing**, **molecular simulations**, and **biophysics**, enabling me to decode complex biological systems and accelerate drug discovery efforts. Additionally, I excel in deploying **big data applications** and leveraging **machine learning techniques** to extract valuable insights from large datasets.
 
----
+
 
 ## Education
 
@@ -25,7 +22,7 @@ With over 15 years of experience in computational biology, drug discovery, and d
 - **M.Sc. Bioinformatics and Computational Biology**, Universidad Complutense de Madrid, 2004  
 - **Ph.D. in Physical Chemistry**, Universidad de Granada, 2012  
 
----
+
 
 ## Experience
 
@@ -59,7 +56,7 @@ With over 15 years of experience in computational biology, drug discovery, and d
 *(Barcelona, SPAIN | January 2005 – August 2007)*  
 - Designed and implemented protocols for preprocessing and digital storage of experimental data.
 
----
+
 
 ## Volunteer and Internships
 
@@ -68,7 +65,7 @@ With over 15 years of experience in computational biology, drug discovery, and d
 - **Research Assistant Intern @ Hospital Universitari de Tarragona Joan XXIII**, 2002  
 - **Lab Assistant Intern @ Bioberica Pharma**, 2001  
 
----
+
 
 ## Courses & Certificates
 
@@ -82,7 +79,7 @@ With over 15 years of experience in computational biology, drug discovery, and d
 | Programming in R                            | U. Barcelona                  | 2004     |
 | Introduction to Health Databases            | U. Girona                     | 2001     |
 
----
+
 
 ## Languages
 
@@ -90,7 +87,6 @@ With over 15 years of experience in computational biology, drug discovery, and d
 - **Catalan**: Native  
 - **English**: Professional working proficiency  
 
----
 
 ## Core Skills
 
@@ -102,40 +98,40 @@ With over 15 years of experience in computational biology, drug discovery, and d
 
 ### Machine Learning & MLOps:
 
-    * ML Model Architecture & Implementation
-    * Model Selection & Benchmarking
-    * Data Ingestion,  Standardization, Data Preprocessing & Feature Engineering
-    * ML Lifecycle Management
-    * Predictive Modeling (e.g., Cytotoxicity, Potency)
+  * ML Model Architecture & Implementation
+  * Model Selection & Benchmarking
+  * Data Ingestion,  Standardization, Data Preprocessing & Feature Engineering
+  * ML Lifecycle Management
+  * Predictive Modeling (e.g., Cytotoxicity, Potency)
 
 ### Workflow Orchestration & Cloud:
 
-    * Prefect
-    * Docker
-    * Anyscale
-    * Continuous Integration/Continuous Deployment
-    * Git 
-    * GCP
+  * Prefect
+  * Docker
+  * Anyscale
+  * Continuous Integration/Continuous Deployment
+  * Git 
+  * GCP
 
 ### Specialized & Domain Expertise:
 
-    * Drug Discovery
-    * Cheminformatics
-    * Bioinformatics
-    * Computational Structural Biology
-    * Systems Biology
-    * Molecular Dynamics
-    * High-Throughput Screening
-    * Computational Strutural Biology
+  * Drug Discovery
+  * Cheminformatics
+  * Bioinformatics
+  * Computational Structural Biology
+  * Systems Biology
+  * Molecular Dynamics
+  * High-Throughput Screening
+  * Computational Strutural Biology
 
 
 ## Soft Skills
 
-    * Communication of Complex Technical Concepts
-    * Cross-functional Collaboration
-    * Problem-Solving oriented
-    * Data-decision driven beliver 
-    * Strategic Planning for R&D
-    * Mentorship & Technical Leadership
+  * Communication of Complex Technical Concepts
+  * Cross-functional Collaboration
+  * Problem-Solving oriented
+  * Data-decision driven beliver 
+  * Strategic Planning for R&D
+  * Mentorship & Technical Leadership
 
 ---
